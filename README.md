@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ruan David
 
-🚀 ** Software Engineer | Backend Developer **  
+🚀 ** Software Engineer | Backend **  
 🇧🇷 Brazil
 
 I am a software developer focused on building robust, scalable applications using the Java ecosystem. Currently, I am specializing in Spring Boot and JPA/Hibernate, with a strong emphasis on designing secure RESTful APIs and efficient database schemas.
